@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [Check out my GitHub repositories here.]
 
-- 📝 I write articles on [Cybersecurity topics, including network security and ethical hacking on my [Medium](https://medium.com/@mihirraut2002).](Cybersecurity topics, including network security and ethical hacking on my [Medium](https://medium.com/@mihirraut2002).)
+- 📝 I write articles on [Cybersecurity topics, including network security and ethical hacking on my [Medium](https://medium.com/@mihirraut2002).]
 
 - 💬 Ask me about **Networking fundamentals, including TCP/IP layers and routing protocols. Basic and intermediate cybersecurity concepts. Network security best practices and configuration.
   - Ethical hacking tools and techniques.
@@ -32,7 +32,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mihir02raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihir02raut" height="30" width="40" /></a>
-<a href="https://instagram.com/@mihir_raut__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mihir_raut__" height="30" width="40" /></a>
 <a href="https://medium.com/@mihirraut2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mihirraut2002" height="30" width="40" /></a>
 </p>
 
